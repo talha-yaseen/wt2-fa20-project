@@ -1,6 +1,9 @@
 = Web Technologies 2 - FA20 - Semester Project
+
 == Developing a React Native Application for Semester Project
+
 === Each task below has equal weightage and code from all team members is required.
+
 * Clone this repository and after completion push your changes.
 * Landing Page Showing a list of items in database (use mlab or firebase for hosting your db)
 * Use knowledge of Bootstrap and jQuery to enable 
