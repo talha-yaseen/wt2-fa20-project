@@ -1,0 +1,53 @@
+.app {
+  
+}
+
+.page-header {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.page-header h2 {
+  margin: 0.5em auto;
+}
+
+.app-logo {
+  height: 120px;
+}
+
+.app-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.students-list {
+  margin: 5em 0;
+}
+
+.add-student-table {
+  width: 30%;
+  margin-top: 1em;
+}
+
+.add-student-table td:first-child {
+  text-align: right;
+}
+
+.add-student-table input[type='text'],
+.add-student-table textarea {
+  width: 100%;
+}
+
+.student-info {
+  margin-top: 1em;
+}
+
+.hidden {
+  display: none;
+}
